@@ -16,6 +16,7 @@
   <div>
     <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/yellowiscutie/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  </div>
-  
+    
     ![Snake animation](https://github.com/yellowiscutie/yellowiscutie/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
